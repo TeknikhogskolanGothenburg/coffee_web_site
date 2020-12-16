@@ -1,0 +1,123 @@
+#logo {
+    width: 200px;
+}
+
+.order-text {
+    font-family: 'Montserrat' sans-serif;
+    font-size: 24px;
+    color:#330000;
+}
+
+.jumbo {
+    border-top: 3px solid #330000;
+    height: auto;
+    width: auto;
+    background: url("../images/background-image.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+#product {
+    width: 500px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.main-heading {
+    font-family: 'Montserrat' sans-serif;
+    font-size: 44px;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+.sub-heading {
+    font-family: 'Montserrat' sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+.testimonial {
+    background-color: #330000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.testimonial-text {
+    margin-left: 5%;
+}
+
+#icon-beans {
+    width: 65px;
+}
+
+#icon-leaf {
+    width: 40px;
+}
+
+.article-heading {
+    font-family: 'Montserrat' sans-serif;
+    font-size: 26px;
+    color:#330000;
+}
+
+.article-text {
+    font-family: 'Montserrat' sans-serif;
+    font-size: 18px;
+    color: #9c9088;
+}
+
+.form {
+    border: #cc0700 solid 7px;
+    border-radius: 10px;
+    margin-top: -100px;
+    background-color: white;
+}
+
+.form-heading {
+    font-family: 'Montserrat' sans-serif;
+    font-size: 32px;
+    color: #cc0700;
+    text-align: center;
+}
+
+.form-subheading {
+    font-family: 'Montserrat' sans-serif;
+    font-size: 14px;
+    color: #7a6e61;
+}
+
+input {
+    width: 85%;
+    font-family: 'Montserrat' sans-serif;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+#submit {
+    background-color: #cc0700;
+    color: white;
+    height: 50px;border-radius: 10px;
+    margin-left: 5px;
+}
+
+#form-footer {
+    font-family: 'Montserrat' sans-serif;
+    font-size: 12px;
+    color: #7a6e61;
+    text-align: center;
+}
+
+#page-footer {
+    margin-top: 10px;
+    background-color: #d9d1cb;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.footer-text {
+    font-family: 'Montserrat' sans-serif;
+    font-size: 18px;
+    color:#330000;
+}
